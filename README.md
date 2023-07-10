@@ -1,16 +1,23 @@
 # kilimo_portal
 
-A new Flutter project.
+Fintech-Demo project.
 
-## Getting Started
+## Steps to Setup the Project
 
-This project is a starting point for a Flutter application.
+**Step 1: Clone this repo**
+```
+git clone https://github.com/mervinkogei/Fintech_Repo
+```
 
-A few resources to get you started if this is your first Flutter project:
+**Step 2: Run these commands in the project directory to download the required packages**
+```
+flutter clean
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Step 3: To run the project in release**
+```
+flutter run --release
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help contact vincentkogei@gmail.com || +254713175969
